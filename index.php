@@ -52,27 +52,6 @@ $aa  =array (
       'text' => 'This is a text response for Slack.',
     ),
   ),
-  'outputContexts' => 
-  array (
-    0 => 
-    array (
-      'name' => 'projects/${PROJECT_ID}/agent/sessions/${SESSION_ID}/contexts/context name',
-      'lifespanCount' => 5,
-      'parameters' => 
-      array (
-        'param' => 'param value',
-      ),
-    ),
-  ),
-  'followupEventInput' => 
-  array (
-    'name' => 'event name',
-    'languageCode' => 'en-US',
-    'parameters' => 
-    array (
-      'param' => 'param value',
-    ),
-  ),
 );
 echo json_encode($aa);
 ?>
