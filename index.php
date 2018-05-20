@@ -9,17 +9,9 @@ $aa  = array (
     array (
       'card' => 
       array (
-        'title' => 'card title',
-        'subtitle' => 'card text',
-        'imageUri' => 'https://assistant.google.com/static/images/molecule/Molecule-Formation-stop.png',
-        'buttons' => 
-        array (
-          0 => 
-          array (
-            'text' => 'button text',
-            'postback' => 'https://assistant.google.com/',
-          ),
-        ),
+        'title' => 'Speed Check',
+        'subtitle' => 'Displays your current speed',
+        'imageUri' => 'https://plus.google.com/_/focus/photos/private/AIbEiAIAAAAiCMr8hcvG19iDRRCwgMnm9NKVl7UBGOTlmODmyM-OlgEwAWLoSrQZkl5cE0L7ZzuftnRR-Zjd?sz=128'       
       ),
     ),
   ),
