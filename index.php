@@ -2,7 +2,7 @@
 
 
 $aa  = array (
-  'fulfillmentText' => 'You are very near to the next car.',
+  'fulfillmentText' => 'It feels great to help you. Wake me up if you need my help again.',
   'source' => 'example.com',
   'payload' => 
   array (
@@ -17,7 +17,7 @@ $aa  = array (
           array (
             'simpleResponse' => 
             array (
-              'textToSpeech' => 'You are very near to the next car.',
+              'textToSpeech' => 'It feels great to help you. Wake me up if you need my help again.',
             ),
           ),
         ),
